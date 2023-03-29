@@ -2,7 +2,7 @@
 ===============================================
 
 This is a demo package from R4DS tutorial.
-
+Cualquier sugerencia contactar al siguiente correo "angel.morales@est.ikiam.edu.ec"
 
 Installation and loading
 ------------------------
