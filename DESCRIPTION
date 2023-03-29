@@ -13,6 +13,5 @@ LazyData: true
 RoxygenNote: 7.2.3
 URL: https://github.com/RicardoMorales2001/FuncionesRS
 BugReports: https://github.com/RicardoMorales2001/FuncionesRS/issues
-Suggests: anagelchiriboga355@gmail.com
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
