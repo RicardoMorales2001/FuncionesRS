@@ -7,12 +7,12 @@ This is a demo package from R4DS tutorial.
 Installation and loading
 ------------------------
 
--   Install the latest version from [GitHub](https://github.com/RicardoMorales2001/Paquetesfunciones/tree/main/FuncionesCursoR) as follow:
+-   Install the latest version from [GitHub](https://github.com/RicardoMorales2001/FuncionesRS) as follow:
 
  r
 # Install
 ### if(!require(devtools)) install.packages("devtools")
-### devtools::install_github("RicardoMorales2001/FuncionesCursoR")
+### devtools::install_github("https://github.com/RicardoMorales2001/FuncionesRS.git")
 
 
 Distribution
